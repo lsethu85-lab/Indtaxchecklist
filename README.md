@@ -313,12 +313,6 @@ Open either:
 index.html
 ```
 
-or the fixed version:
-
-```text
-index-fixed-v2.html
-```
-
 in your browser.
 
 ---
@@ -407,7 +401,6 @@ and recommend the better option.
 taxvault/
 │
 ├── index.html
-├── index-fixed-v2.html
 ├── README.md
 └── assets/
     └── optional screenshots
