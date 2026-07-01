@@ -2,7 +2,7 @@
 
 **Author:** Sethuraman  
 **Project Type:** Offline browser-based Indian tax filing helper  
-**Primary File:** `index.html` / `index-fixed-v2.html`  
+**Primary File:** `index.html`
 **Status:** Personal tax dashboard / filing preparation assistant
 
 ---
